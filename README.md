@@ -8,7 +8,7 @@ La aplicación pretende ser lo más dinámica posible en el manejo y edición de
 ![Captura](https://user-images.githubusercontent.com/82833236/174052241-596daadd-8bbc-4080-8df6-74972b4746fd.JPG)
 
 Instalación:
-$ python -m pip install git+https://github.com/pablococeres/Mis-fotos/
+Descargar los archivos en un enviroment.
 pip install requirements.txt
 
 Ejecución:
