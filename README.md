@@ -8,9 +8,13 @@ La aplicación pretende ser lo más dinámica posible en el manejo y edición de
 ![Captura](https://user-images.githubusercontent.com/82833236/174052241-596daadd-8bbc-4080-8df6-74972b4746fd.JPG)
 
 Instalación:
+
 Descargar los archivos en un enviroment.
+
 pip install requirements.txt
 
 Ejecución:
+
 La aplicación comienza con: streamlit run paginas.py
+
 Se abrirá una pestaña en el navegador con la aplicación funcionando.
